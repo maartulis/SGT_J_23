@@ -67,5 +67,17 @@ public class SuperHero {
         System.out.println(gradeOfSuccess);
         System.out.println("\n");
         System.out.println("************************************************************");
+	        /** #1
+    Write a Java program which does provide information about you,
+     and print that on the screen,
+     and push that into your personal GitHub project.
+
+     E.g.:
+     - initiates variables:
+        name (String type)
+        age (int type)
+        gender (char type)
+    */
+	    
     }
 }
