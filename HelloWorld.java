@@ -10,7 +10,7 @@ public class HelloWorld {
 	System.out.println("Ieva");
 	System.out.println("Hello World!from Alina");
         System.out.println("Hello World!");
- System.out.println("Maara");
+ 	System.out.println("Maara");
 	System.out.println("From Aija");
 	System.out.println("Hello World!");
 	System.out.println("Laura");
