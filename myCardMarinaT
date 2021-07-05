@@ -1,0 +1,30 @@
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        String myName;
+        short myAge;
+        char myGender;
+
+        myName = "Marina";
+        myAge = 31;
+        myGender = 'F';
+
+        System.out.println("************************************************************");
+        System.out.println();
+        System.out.println("My Name: ");
+        System.out.println(myName);
+        System.out.println("My age");
+        System.out.println(myAge);
+        System.out.println("My gender");
+        System.out.println(myGender);
+
+
+My Name: 
+Marina
+My age
+31
+My gender
+F
+
+Process finished with exit code 0
