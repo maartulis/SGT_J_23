@@ -1,0 +1,18 @@
+ublic class ProgramAboutMe {
+
+    public static void main(String[] args) {
+	// write your code here
+
+        string name;
+        int age;
+        char MyGender;
+
+        name = "Anna Jonikane";
+        int age = 39;
+        MyGender = 'F';
+
+        System.out.println("My name: " + name);
+        System.out.println("My age: " + age);
+        System.out.println("My gender: " + MyGender);
+    }
+}
