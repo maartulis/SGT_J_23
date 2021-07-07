@@ -22,7 +22,7 @@ public class Main {
 //        43
 //        1
 //        13
-        System.out.println("Tests3");
+      
 
     }
 }
