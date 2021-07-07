@@ -6,7 +6,7 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("Santa");
 	System.out.println("   - from GitHub by MarinaT");
-        System.out.println("Hello World!")
+        System.out.println("Hello World!");
 	System.out.println("Anna Borne");
 	System.out.println("Ieva");
 	System.out.println("Hello World!from Alina");
