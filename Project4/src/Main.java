@@ -10,7 +10,13 @@ public class Main {
 //        43
 //        1
 //        13
-        System.out.println("Tests4");
+        int sum1 = (-5 + 8 * 6);
+        int sum2 = (55+9) % 9;
+        int sum3 = 5 +15 / 3 * 2 - 8 % 3;
+
+        System.out.println(sum1);
+        System.out.println(sum2);
+        System.out.println(sum3);
 
     }
 }
