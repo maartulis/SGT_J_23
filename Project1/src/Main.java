@@ -3,7 +3,8 @@ public class Main {
 
 //        Write a Java program calculates and prints the result of
 //   the following operations.
-//      a. -5 + 8 * 6
+int a = (-5 + 8 * 6);
+        System.out.println(a);
 //      b. (55+9) % 9
 //      c. 5 + 15 / 3 * 2 - 8 % 3
 //  Expected Output :
